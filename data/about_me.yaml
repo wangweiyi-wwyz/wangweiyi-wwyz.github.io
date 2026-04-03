@@ -1,0 +1,14 @@
+{
+  "title": "About Me",
+  "icon": "bi bi-person",
+  "description": "I am a quantitative finance researcher and a graduate of the UCL 
+  Institute of Finance & Technology. My academic interests lie at the intersection of 
+  machine learning, econometrics, and time-series forecasting. I am driven by the challenge 
+  of decoding nonlinear financial markets using rigorous data-driven methodologies.
+  
+  In my recent research, I developed a multimodal data fusion framework that integrates 
+  macroeconomic variables with technical indicators to forecast highly volatile assets. 
+  By testing ensemble algorithms (XGBoost) against deep learning architectures across 
+  shifting market regimes, my work focuses on translating theoretical predictive accuracy 
+  into robust, risk-adjusted trading strategies."
+}

@@ -1,0 +1,26 @@
+<div
+  class="w-full p-2 flex justify-center align-middle profile-photo-container"
+>
+  <img
+    class="rounded-sm"
+    src="{{ `images` | relURL }}/{{ .Site.Data.profile.photo }}"
+    alt="{{ .Site.Data.profile.name }}"
+  />
+</div>
+<div class="text-center px-4">
+  <h1 class="text-2xl font-bold text-gray-800 dark:text-white mt-3">
+    {{ .Site.Data.profile.name }}
+  </h1>
+  
+  <p class="text-sm font-semibold text-blue-600 dark:text-yellow-500 uppercase tracking-wider mt-1">
+    Quantitative Finance Researcher
+  </p>
+
+  <p class="text-xs text-gray-500 dark:text-gray-400 mt-3 leading-relaxed border-t border-gray-200 dark:border-gray-700 pt-2">
+    Focusing on Machine Learning, Econometrics, and Time-series Forecasting.
+  </p>
+
+  <p class="text-xs text-gray-400 dark:text-gray-500 mt-2 pb-4">
+    <i class="bi bi-geo-alt"></i> Shenzhen, China
+  </p>
+</div>

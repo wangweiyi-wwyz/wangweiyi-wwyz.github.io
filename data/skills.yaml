@@ -1,0 +1,19 @@
+{
+  "title": "Skills",
+  "panelId": "skill-panel",
+  "icon": "bi bi-list-check",
+  "list": [
+    {
+      "skill": "Languages: Python, SQL (MySQL)，R，C/C++",
+      "skillrating": 90
+    },
+    {
+      "skill": "Deep Learning: PyTorch, Transformers, LSTM, GRU",
+      "skillrating": 80
+    },
+    {
+      "skill": "Machine Learning: Scikit-learn, XGBoost, SVM, Clustering, PCA",
+      "skillrating": 80
+    }
+  ]
+}

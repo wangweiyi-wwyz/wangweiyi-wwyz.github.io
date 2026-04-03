@@ -1,0 +1,35 @@
+{
+  "title": "Projects",
+  "icon": "bi bi-kanban",
+  "list": [
+    {
+      "title": "Time Series Modeling with Applications in Economics
+      (Lead Researcher & Data Analyst, Supervised by Peter, Lecturer at MIT)",
+      "url": "#",
+      "description": "Objective: Evaluated the predictability of daily Bitcoin prices (2011–2025) 
+      under MIT supervision, analyzing the limits of linear time-series models for non-stationary digital assets.
+      
+      Modeling: Executed the Box-Jenkins methodology in R (ADF tests, log-differencing) to 
+      optimize a SARIMA model. Successfully captured the 7-day crypto trading cycle, achieving a robust 
+      Training MAPE of 2.4%.
+      
+      Advanced Diagnostics: Diagnosed structural breaks and volatility clustering via Ljung-Box Q-tests, 
+      subsequently proposing a SARIMA-GARCH hybrid architecture to model conditional variance during market crashes."
+    },
+    # {
+    #   "title": "Project 2",
+    #   "url": "#",
+    #   "description": "Description of the project"
+    # },
+    # {
+    #   "title": "Project 3",
+    #   "url": "#",
+    #   "description": "Description of the project"
+    # },
+    # {
+    #   "title": "Project 4",
+    #   "url": "#",
+    #   "description": "Description of the project"
+    # }
+  ]
+}

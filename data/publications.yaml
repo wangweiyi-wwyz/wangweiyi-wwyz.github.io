@@ -1,0 +1,16 @@
+{
+  "title": "Publications",
+  "icon": "bi bi-book",
+  "format": ["date", "authors", "title", "journal"],
+  "delimiter": "; ",
+  "types": ["Conferences"],
+  "list": [
+    {
+      "title": "[Bitcoin Price Forecasting under Multimodal Data Fusion: A Comparative Study of Machine Learning and Deep Learning Models](#)",
+      "authors": "Weiyi Wang",
+      "date": "2026",
+      "journal": "Advances in Economics, Management and Political Sciences,258,148-162.",
+      "type": "Conferences"
+    }
+  ]
+}

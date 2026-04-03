@@ -1,0 +1,42 @@
+{
+  "title": "Experiences",
+  "icon": "bi bi-briefcase",
+  "list": [{
+      "position": "Investment Manager",
+      "dates": "2025 - 2026",
+      "url": "#",
+      "company": "Ganfeng Lithium Co., Ltd.", 
+      "details": [
+        "Conducted in-depth industry research on Energy Storage Systems, Solid-state Batteries, 
+        and Microgrids;authored comprehensive reports detailing technical barriers and 
+        supply chain stability",
+        "Developed Valuation frameworks utilizing DCF and Comparable Company Analysis for 
+        financial feasibility assessments; supported post-investment tracking for 15 
+        projects and facilitated multiple IPO exits."
+      ]
+    },
+    {
+      "position": "Investment Banking Associate (Equity Capital Markets)",
+      "dates": "2024 - 2025",
+      "company": "Guorong Securities Co., Ltd.",
+      "details": [
+        "Conducted systematic industry research on hard-tech sectors, including Semiconductors, 
+        Power Electronics,and Optoelectronics; analyzed supply-demand dynamics and 
+        technological evolution trends.",
+        "Performed financial and business due diligence for TMT and high-end manufacturing firms; 
+        drafted core sections of 8 Prospectuses (BSE, ChiNext, STAR Market), effectively 
+        translating technical principles and manufacturing processes into regulatory disclosure 
+        frameworks.",
+        "Formulated Valuation models and Profit forecasts for diverse financing projects, 
+        including private placements and convertible bonds; evaluated project feasibility 
+        to support asset pricing and investment decision-making."
+      ]
+    },
+    # {
+    #   "position": "Job Title",
+    #   "dates": "2018 - 2019",
+    #   "url": "#",
+    #   "company": "Company Name"
+    # }
+  ]
+}
