@@ -37,7 +37,7 @@ To run this project locally on your machine, follow these steps:
 1.  **Clone the repository:**
     Because the theme is added as a submodule, you must include the `--recursive` flag when cloning.
     ```bash
-    git clone --recursive [https://github.com/wangweiyi-wwyz/](https://github.com/wangweiyi-wwyz/)<your-repo-name>.git
+    git clone --recursive https://github.com/wangweiyi-wwyz/wangweiyi-wwyz.github.io.git
     cd <your-repo-name>
     ```
     *(If you already cloned it without the flag, run: `git submodule update --init --recursive`)*
