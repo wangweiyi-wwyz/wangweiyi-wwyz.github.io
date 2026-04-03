@@ -65,4 +65,4 @@ Any changes pushed to the `main` branch will automatically trigger the workflow 
 
 ## 📝 License
 
-[Specify your license here, e.g., MIT License]
+[MIT License]
